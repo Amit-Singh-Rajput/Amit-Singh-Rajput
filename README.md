@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-singh-rajput&label=Profile%20views&color=0e75b6&style=flat" alt="amit-singh-rajput" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working as **Business Analyst**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Data Science**
 
